@@ -1,0 +1,28 @@
+_repo: Keith-of-the-Border--A-Tale-of-the-Plains_7510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: Cover -- Contents.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Veterans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: 'Keith of the Border: A Tale of the Plains'
+url: http://www.gutenberg.org/ebooks/7510
